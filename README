@@ -1,0 +1,14 @@
+A web app to provision & manage virtual mobile numbers.
+(and optionally host an API that the 'app' version of the service may use)
+
+
+Reading Resources
+http://codeigniter.com/tutorials/
+http://aql.com/telecoms/site/query_php.htm
+http://codeigniter.com/tutorials/watch/blog/
+
+Authentication Plugins
+https://github.com/benedmunds/CodeIgniter-Ion-Auth
+http://stackoverflow.com/questions/346980/what-codeigniter-authentication-library-is-best
+http://codeigniter.com/wiki/Category:Libraries::Authentication/
+http://benedmunds.com/ion_auth/
